@@ -40,12 +40,6 @@ This dashboard provides a 360° view of mobile phone sales data, covering revenu
 
 📹 [Watch the full walkthrough video] - https://lnkd.in/p/dba5qHhW
 
-## 📂 Repository Contents
-
-- `Mobile-Sales-Dashboard.pbix` – Power BI project file
-- `dashboard-screenshot.png` – Dashboard preview image
-- `demo-recording.mp4` – Screen recording walkthrough *(or linked externally if file size is large)*
-
 ## 🔑 Skills Demonstrated
 
 Data Analysis · Business Intelligence · Data Visualization · DAX · Data Modeling · Dashboard Storytelling
